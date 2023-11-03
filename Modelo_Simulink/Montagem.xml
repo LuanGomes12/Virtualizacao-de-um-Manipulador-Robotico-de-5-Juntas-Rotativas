@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="NOTEBOOK" on="09/21/23||12:22:15" using="Simscape Multibody Link Version 7.4" from="Autodesk Inventor 2021 (Build 250183000. 183)"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="centimeter"/>
+<RootAssembly name="Montagem_Junta5.iam (Nível de detalhe1)" uid="Montagem_Junta5.iam (Nível de detalhe1)_{97867E4D-4D04-4CCF-BC1D-349A82D6566D}" version="{9DDCEBB0-5966-9FE2-0761-6483D55E3A55}">
+<AssemblyFile name="Montagem_Junta5.iam" type="Inventor Assembly"/>
+<InstanceTree>
+<Instance name="BRAÇO ROBÓTICO - Base A1:1" uid="BRAÇO ROBÓTICO - Base A1:1" entityUid="BRAÇO ROBÓTICO - Base A1.ipt_{7BA6881D-4DE6-5E58-8564-93AC9E8086F1}">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.76457959610607151 -4.8020763071213484 3.5527136788005009e-15</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Base A2:1" uid="BRAÇO ROBÓTICO - Base A2:1" entityUid="BRAÇO ROBÓTICO - Base A2.ipt_{D08F66B2-4B05-B5F5-10C9-37BBF5120E6B}">
+<Transform>
+<Rotation>0.995334114501504 0.09648834390488284 0 0 0 1 0.09648834390488284 -0.995334114501504 0</Rotation>
+<Translation>-0.24743948959178896 1.1479236928786516 0.1412675927340992</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Base C2:1" uid="BRAÇO ROBÓTICO - Base C2:1" entityUid="BRAÇO ROBÓTICO - Base C2.ipt_{EA8C0C93-4C68-904D-843E-F8A7D0FE65C1}">
+<Transform>
+<Rotation>1 0 5.2735593669694936e-15 0 1 0 -5.2735593669694936e-15 0 1</Rotation>
+<Translation>-2.5145795961060746 1.7479236928786519 -0.74999999999998879</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Braço B:1" uid="BRAÇO ROBÓTICO - Braço B:1" entityUid="BRAÇO ROBÓTICO - Braço B.ipt_{9F9689C0-4F99-1109-B5F2-23A9308709F6}">
+<Transform>
+<Rotation>-8.3266726846887667e-16 -5.2735593669694936e-15 -1 1 0 -8.3266726846887667e-16 0 -1 5.2735593669694936e-15</Rotation>
+<Translation>-2.5145795961060946 13.747923692878652 -0.74999999999998879</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Braço A:1" uid="BRAÇO ROBÓTICO - Braço A:1" entityUid="BRAÇO ROBÓTICO - Braço A.ipt_{9F9689C0-4F99-1109-B5F2-23A9308709F6}">
+<Transform>
+<Rotation>8.3266726846887667e-16 -5.2735593669694936e-15 1 -1 0 8.3266726846887667e-16 0 -1 -5.2735593669694936e-15</Rotation>
+<Translation>-2.5145795961061026 31.747923692878651 -0.74999999999998879</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Braço C1:1" uid="BRAÇO ROBÓTICO - Braço C1:1" entityUid="BRAÇO ROBÓTICO - Braço C1.ipt_{9F9689C0-4F99-1109-B5F2-23A9308709F6}">
+<Transform>
+<Rotation>-0.068589013969845694 0.99764500057016536 -5.2735593669694936e-15 0.99764500057016536 0.068589013969845694 0 3.6170823709188043e-16 -5.2611401376670812e-15 -1</Rotation>
+<Translation>-2.5145795961061106 40.747923692878643 -0.74999999999998879</Translation>
+</Transform>
+</Instance>
+<Instance name="garra_final:1" uid="garra_final:1" entityUid="garra_final.iam (sumprirParafusosAruelas)_{1C40B84E-43ED-7010-9030-28B41599FFBD}" rigid="true">
+<Transform>
+<Rotation>-0.068589013969845639 0.99764500057016514 1.0521165504414357e-14 0.99764500057016514 0.068589013969845639 1.0838110528520102e-15 3.5962231067916072e-16 1.0570725697095e-14 -1</Rotation>
+<Translation>-3.9099863835172504 40.268555454809764 -2.1750000000000069</Translation>
+</Transform>
+<Instance name="BRAÇO ROBÓTICO - Garra A4b:1" uid="BRAÇO ROBÓTICO - Garra A4b:1" entityUid="BRAÇO ROBÓTICO - Garra A4b.ipt_{63F5F9A4-48A2-BC39-03A6-74BBF3D9F541}">
+<Transform>
+<Rotation>-5.5798425907319579e-16 0.99999999999999956 0 -0.045444099197870215 0 -0.99896688325894489 -0.99896688325894556 -6.1577035727207272e-16 0.045444099197872123</Rotation>
+<Translation>4.3825297505062011 1.4250000000000007 -3.1086244689504383e-15</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A4:1" uid="BRAÇO ROBÓTICO - Garra A4:1" entityUid="BRAÇO ROBÓTICO - Garra A4.ipt_{3F039BFD-4B09-F868-3C7D-E7BB0A722E1F}">
+<Transform>
+<Rotation>1 2.8488331727597667e-16 -2.6558470432115266e-16 -4.4408920985005833e-16 0.73851008804093332 -0.67424242662547396 0 0.67424242662546918 0.73851008804093188</Rotation>
+<Translation>6.3825297505062011 0.98189394717544731 -0.40454545597529545</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A1:1" uid="BRAÇO ROBÓTICO - Garra A1:1" entityUid="BRAÇO ROBÓTICO - Garra A1.ipt_{D72B2068-4725-892E-16A7-A691F2BF18C7}">
+<Transform>
+<Rotation>1 2.854699818789012e-14 -2.6404398040339674e-14 -3.8899439225303922e-14 0.73851008804091245 -0.67424242662547107 2.4683278715776226e-16 0.67424242662547107 0.73851008804091245</Rotation>
+<Translation>10.928314929656267 2.0199787936200266 -1.5415788152950129</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A1:2" uid="BRAÇO ROBÓTICO - Garra A1:2" entityUid="BRAÇO ROBÓTICO - Garra A1.ipt_{D72B2068-4725-892E-16A7-A691F2BF18C7}">
+<Transform>
+<Rotation>1 -5.0196347168080673e-14 7.1201897083964747e-14 -8.5084717049710624e-14 -0.73851008804091689 0.67424242662546618 1.8734943189086412e-14 -0.6742424266254663 -0.73851008804091678</Rotation>
+<Translation>10.928324730533937 0.83003653646994269 1.5415620239661667</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A2a:2" uid="BRAÇO ROBÓTICO - Garra A2a:2" entityUid="BRAÇO ROBÓTICO - Garra A2a.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}">
+<Transform>
+<Rotation>0.91831799201085762 -2.7716708894050696e-16 -0.39584348617748755 -0.26689447268419242 0.73851008804091933 -0.61916895134722416 0.29233440782736092 0.67424242662546396 0.67818710112949832</Rotation>
+<Translation>7.8325297505064952 -1.1390946924781331 1.5181628397524367</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A2a:4" uid="BRAÇO ROBÓTICO - Garra A2a:4" entityUid="BRAÇO ROBÓTICO - Garra A2a.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}">
+<Transform>
+<Rotation>-0.91831799201087883 5.0168591592465044e-14 0.39584348617743781 0.26689447268419408 0.73851008804091667 0.61916895134722638 -0.29233440782729186 0.67424242662546663 -0.67818710112952529</Rotation>
+<Translation>10.928324730533653 -0.45784602093778792 0.77197868323894703</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A2a:5" uid="BRAÇO ROBÓTICO - Garra A2a:5" entityUid="BRAÇO ROBÓTICO - Garra A2a.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}">
+<Transform>
+<Rotation>-0.91831407165989642 2.9567015591764483e-14 -0.39585258088260927 -0.26690060472022592 0.73851008804091256 0.61916630808029438 0.29234112435885634 0.67424242662547118 -0.67818420591075124</Rotation>
+<Translation>10.928314929656203 2.0228537978365999 -1.9451772968961405</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A2a:3" uid="BRAÇO ROBÓTICO - Garra A2a:3" entityUid="BRAÇO ROBÓTICO - Garra A2a.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}">
+<Transform>
+<Rotation>-0.91831407165991585 2.591021850440537e-14 -0.39585258088256436 -0.26690060472019866 0.73851008804091134 0.61916630808030748 0.29234112435882031 0.67424242662547262 -0.67818420591076534</Rotation>
+<Translation>10.128314929656284 3.3713386510874757 -3.4221974729780684</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A2b - Pino:2" uid="BRAÇO ROBÓTICO - Garra A2b - Pino:2" entityUid="BRAÇO ROBÓTICO - Garra A2b - Pino.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}">
+<Transform>
+<Rotation>-0.91831799201085373 -5.069279222010096e-16 -0.39584348617748422 0.26689447268419136 -0.73851008804091989 -0.61916895134722594 -0.29233440782735953 -0.67424242662546452 0.67818710112949965</Rotation>
+<Translation>10.12832473053362 -0.53609352275822975 3.4086958331166342</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A2b - Pino:3" uid="BRAÇO ROBÓTICO - Garra A2b - Pino:3" entityUid="BRAÇO ROBÓTICO - Garra A2b - Pino.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}">
+<Transform>
+<Rotation>-0.91831407165991064 -2.4848567737107561e-14 0.39585258088256009 -0.26690060472019717 -0.73851008804091856 -0.6191663080803077 0.29234112435881876 -0.67424242662547595 0.67818420591076589</Rotation>
+<Translation>10.12831492965632 4.6415760025178523 -2.2625004991822459</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A2c:1" uid="BRAÇO ROBÓTICO - Garra A2c:1" entityUid="BRAÇO ROBÓTICO - Garra A2c.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}">
+<Transform>
+<Rotation>0.91831799201087827 -5.230577091486847e-14 0.39584348617743981 -0.26689447268419425 -0.738510088040917 0.61916895134722638 0.29233440782729192 -0.67424242662546696 -0.67818710112952563</Rotation>
+<Translation>8.6325297505065421 1.4796275122030711 1.2008396374665216</Translation>
+</Transform>
+</Instance>
+<Instance name="BRAÇO ROBÓTICO - Garra A2d:1" uid="BRAÇO ROBÓTICO - Garra A2d:1" entityUid="BRAÇO ROBÓTICO - Garra A2d.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}">
+<Transform>
+<Rotation>0.91831407165990764 -3.0101310422365339e-14 -0.3958525808825899 0.26690060472021321 -0.73851008804091234 0.61916630808030226 -0.29234112435884113 -0.67424242662546907 -0.67818420591076045</Rotation>
+<Translation>8.6325297505064853 2.625839637466437 -0.054627512203227813</Translation>
+</Transform>
+</Instance>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Inserir:1">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>garra_final:1</Uid>
+</InstancePath>
+<Position>6.3825297505062082 1.4250000000000007 -2.2204460492503131e-15</Position>
+<Axis>0.99999999999999989 -9.0205620750792963e-16 -5.840672602522322e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Braço C1:1</Uid>
+</InstancePath>
+<Position>6 3.7747582837255322e-15 1.4250000000000005</Position>
+<Axis>0.99999999999999956 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Inserir:1_Coincident">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>garra_final:1</Uid>
+</InstancePath>
+<Position>6.3825297505062082 1.4250000000000007 -2.2204460492503131e-15</Position>
+<Axis>0.99999999999999989 -9.0205620750792963e-16 -5.840672602522322e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Braço C1:1</Uid>
+</InstancePath>
+<Position>6 3.7747582837255322e-15 1.4250000000000005</Position>
+<Axis>0.99999999999999956 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+<Joints>
+<Weld name="Rígida:1">
+<BaseFrame>
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Base A1:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-3.8064789415719644e-15 -1 0 0 0 1 -1 3.8064789415719644e-15 0</Rotation>
+<Translation>0 6.25 2.2204460492503131e-16</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Base A2:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-0.096488343904886628 -0.99533411450150366 0 0.99533411450150366 -0.096488343904886628 0 0 0 1</Rotation>
+<Translation>-0.52835786606094892 0.090710461877392179 0.30000000000000004</Translation>
+</Transform>
+</FollowerFrame>
+</Weld>
+<Revolute name="Rotativa:1">
+<BaseFrame>
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Base A2:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>-0.096488343904888113 0.99533411450150366 0 0.99533411450150366 0.096488343904888113 0 0 0 -1</Rotation>
+<Translation>-2.3425588243672459 0.66835644591996712 0.30000000000000004</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Base C2:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 1 0 0 0 -1 -1 0 0</Rotation>
+<Translation>0 -0.30000000000000004 0</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotativa:2">
+<BaseFrame>
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Base C2:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0 -1 0 1 0 0 0 0 1</Rotation>
+<Translation>-1.2601031329495527e-14 3 0</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Braço B:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>1 8.3266726846887667e-16 0 0 0 -1 -8.3266726846887667e-16 1 0</Rotation>
+<Translation>-9 0 0</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotativa:3">
+<BaseFrame>
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Braço B:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>1 0 0 0 0 1 0 -1 0</Rotation>
+<Translation>9 0 -3.3065463576978533e-15</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Braço A:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>1 0 0 0 0 1 0 -1 0</Rotation>
+<Translation>9 0 -3.3065463576978533e-15</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+<Revolute name="Rotativa:4">
+<BaseFrame>
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Braço A:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>0.068589013969844653 -0.99764500057016503 0 0 0 1 -0.99764500057016503 -0.068589013969844653 0</Rotation>
+<Translation>-9 0 0</Translation>
+</Transform>
+</BaseFrame>
+<FollowerFrame>
+<InstancePath>
+<Uid>BRAÇO ROBÓTICO - Braço C1:1</Uid>
+</InstancePath>
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</FollowerFrame>
+</Revolute>
+</Joints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="garra_final.iam (sumprirParafusosAruelas)" uid="garra_final.iam (sumprirParafusosAruelas)_{1C40B84E-43ED-7010-9030-28B41599FFBD}" version="{0077A381-6284-A5F8-CA93-14A6D81B9F9F}">
+<AssemblyFile name="garra_final.iam" type="Inventor Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="BRAÇO ROBÓTICO - Base A1.ipt" uid="BRAÇO ROBÓTICO - Base A1.ipt_{7BA6881D-4DE6-5E58-8564-93AC9E8086F1}" version="{FC9DBB53-7610-9C82-15AD-10EF782B22C1}">
+<PartFile name="BRAÇO ROBÓTICO - Base A1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.020686605772872759</Mass>
+<CenterOfMass>-0.05270190309583965 2.2026186379362089 -0.00084144487651034391</CenterOfMass>
+<Inertia>0.20089969453245726 0.3519002289376168 0.32110462222177388 8.0400675557228176e-05 0.00011100068745880856 -0.0013156181768696443</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Base A1_ipt_1efede4f.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Base A2.ipt" uid="BRAÇO ROBÓTICO - Base A2.ipt_{D08F66B2-4B05-B5F5-10C9-37BBF5120E6B}" version="{9661C528-1E7C-4C0C-F4FE-66F389ABFA63}">
+<PartFile name="BRAÇO ROBÓTICO - Base A2.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.0097279539246602487</Mass>
+<CenterOfMass>-0.74774630811008647 -0.034310021599181055 -0.20168421210684712</CenterOfMass>
+<Inertia>0.042125866466244589 0.069208102913480174 0.10320890134210572 -0.0011356584683863765 -0.0044365887799714173 -0.0042057916245334722</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Base A2_ipt_d4445b69.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Base C2.ipt" uid="BRAÇO ROBÓTICO - Base C2.ipt_{EA8C0C93-4C68-904D-843E-F8A7D0FE65C1}" version="{3E18DEE2-A63C-674E-B1A5-4DFCC3B0ECCA}">
+<PartFile name="BRAÇO ROBÓTICO - Base C2.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.004929665004226238</Mass>
+<CenterOfMass>-0.0032992138929258869 1.414603211686791 0.36959048818713941</CenterOfMass>
+<Inertia>0.017037987632353761 0.010921766184028157 0.020305165471308485 -0.00050249755707259874 -4.8280939786666424e-06 -0.00043068493464091807</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Base C2_ipt_17d74486.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Braço A.ipt" uid="BRAÇO ROBÓTICO - Braço A.ipt_{9F9689C0-4F99-1109-B5F2-23A9308709F6}" version="{3EE3EF66-0D27-D06C-44DF-F08232B747ED}">
+<PartFile name="BRAÇO ROBÓTICO - Braço A.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.016803887036194582</Mass>
+<CenterOfMass>0.00089000819019716647 -0.81874685887774579 0.0018578179169159419</CenterOfMass>
+<Inertia>0.029935626870074217 0.66754223059581708 0.65529236238523281 -2.087695413424543e-05 -1.0142918831675896e-05 -9.9904569040684918e-06</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Braço A_ipt_c91b14e4.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Braço B.ipt" uid="BRAÇO ROBÓTICO - Braço B.ipt_{9F9689C0-4F99-1109-B5F2-23A9308709F6}" version="{C571CDEF-9FD6-EBAE-23E3-EEB3B3E832F0}">
+<PartFile name="BRAÇO ROBÓTICO - Braço B.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.01689496137986236</Mass>
+<CenterOfMass>-0.047641669924672357 0.81529021402116786 0.0018478031267881434</CenterOfMass>
+<Inertia>0.029987098462371364 0.67490703864077606 0.66268201186311693 2.076904262148299e-05 -1.1663817149888353e-05 -0.00051272481526210359</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Braço B_ipt_c91b14e4.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Braço C1.ipt" uid="BRAÇO ROBÓTICO - Braço C1.ipt_{9F9689C0-4F99-1109-B5F2-23A9308709F6}" version="{0392D6BE-B4E2-AE2D-E813-3E05DDBEDEDD}">
+<PartFile name="BRAÇO ROBÓTICO - Braço C1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.0077651609277111745</Mass>
+<CenterOfMass>2.5582555367872568 -0.0024738787341296313 1.0648611567992605</CenterOfMass>
+<Inertia>0.018660613017571982 0.045592773802455362 0.050735969610947305 1.0488145711120927e-05 -0.0044753390888958222 -0.00045608617654776488</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Braço C1_ipt_c91b14e4.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Garra A1.ipt" uid="BRAÇO ROBÓTICO - Garra A1.ipt_{D72B2068-4725-892E-16A7-A691F2BF18C7}" version="{4D72BFEA-F4F4-8374-588D-2B7C03224488}">
+<PartFile name="BRAÇO ROBÓTICO - Garra A1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.0061276281258398641</Mass>
+<CenterOfMass>2.5950368558131123 0.60000000000000098 -0.81852946962178974</CenterOfMass>
+<Inertia>0.0044333262628982869 0.035621015722780348 0.032658320210083636 0 -0.0056158777310443397 0</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Garra A1_ipt_2e13df14.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="0.50196078431372548" b="1" a="1"/>
+<Diffuse r="0" g="0.50196078431372548" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.50012500762939449</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Garra A2a.ipt" uid="BRAÇO ROBÓTICO - Garra A2a.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}" version="{48DB9E31-D759-868D-0405-C8048E61A1B9}">
+<PartFile name="BRAÇO ROBÓTICO - Garra A2a.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.00016004593380064937</Mass>
+<CenterOfMass>1.2499999999931253 0.12006897013384255 0</CenterOfMass>
+<Inertia>6.995379699230399e-06 0.00013594587384040824 0.00013061780868817163 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Garra A2a_ipt_ad69c09e.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Garra A2b - Pino.ipt" uid="BRAÇO ROBÓTICO - Garra A2b - Pino.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}" version="{1809A99B-7B04-EFBE-5EDA-161B9899B366}">
+<PartFile name="BRAÇO ROBÓTICO - Garra A2b - Pino.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.00034892431928511058</Mass>
+<CenterOfMass>1.2500000000248888 0.49995165556698001 0</CenterOfMass>
+<Inertia>9.1266633801638264e-05 0.00043681928314645015 0.00051001153936772723 0 0 -3.7445324618801124e-15</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Garra A2b - Pino_ipt_ad69c09e.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Garra A2c.ipt" uid="BRAÇO ROBÓTICO - Garra A2c.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}" version="{E9E76F7C-3397-4B4E-1C8D-9D3ED82A0B4B}">
+<PartFile name="BRAÇO ROBÓTICO - Garra A2c.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.00069306130397181693</Mass>
+<CenterOfMass>0.63513331420959751 0.41757088976459766 0.00037413881071812906</CenterOfMass>
+<Inertia>0.00019101254034098672 0.0008990068224308059 0.00091385843408117891 7.6111919791627196e-08 -3.2358156041112452e-08 -5.0008279066583894e-05</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Garra A2c_ipt_ad69c09e.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Garra A2d.ipt" uid="BRAÇO ROBÓTICO - Garra A2d.ipt_{FB012215-4C3D-F0C0-BDEF-029097C90871}" version="{6D89DDD0-B154-374D-C15A-29824F54CD15}">
+<PartFile name="BRAÇO ROBÓTICO - Garra A2d.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.00071377361910058776</Mass>
+<CenterOfMass>0.61670298700127835 0.40980650559602771 0.00036328203379402165</CenterOfMass>
+<Inertia>0.00019293013122579456 0.00090776439277380678 0.00092388880011526385 7.4098606189292469e-08 -3.713716075740521e-08 -5.3426054783657198e-05</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Garra A2d_ipt_ad69c09e.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Garra A4.ipt" uid="BRAÇO ROBÓTICO - Garra A4.ipt_{3F039BFD-4B09-F868-3C7D-E7BB0A722E1F}" version="{C8AE4D7B-B3D7-C16D-C3E6-5D0F824F1D55}">
+<PartFile name="BRAÇO ROBÓTICO - Garra A4.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.0028413726441069809</Mass>
+<CenterOfMass>1.0427454023276355 0.64396950768730821 0.063369961215902437</CenterOfMass>
+<Inertia>0.008011262954768051 0.0091208043212864087 0.0022863500680998417 -0.00019464783625644161 0.00013849201871949176 0.0002747411149112473</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Garra A4_ipt_ac27e29f.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="BRAÇO ROBÓTICO - Garra A4b.ipt" uid="BRAÇO ROBÓTICO - Garra A4b.ipt_{63F5F9A4-48A2-BC39-03A6-74BBF3D9F541}" version="{70B000F8-DCB2-21CA-A851-6565B9B2032B}">
+<PartFile name="BRAÇO ROBÓTICO - Garra A4b.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.0011610033102024831</Mass>
+<CenterOfMass>-1.9338543395056625e-12 0.77208848009121023 1.5032434269353607e-15</CenterOfMass>
+<Inertia>0.00086932358791178021 0.00098999946976107865 0.00086932358849767179 0 -1.120280032700058e-05 -2.6853088900535704e-15</Inertia>
+</MassProperties>
+<GeometryFile name="BRAÇO ROBÓTICO - Garra A4b_ipt_9b61da0b.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Diffuse r="0.92156862745098034" g="0.92156862745098034" b="0.92156862745098034" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51500000000000001</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
